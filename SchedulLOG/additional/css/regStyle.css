@@ -1,0 +1,41 @@
+﻿body {
+    background-color: aliceblue;
+    background-image: url('../img/wallpaper.jpg');
+}
+
+#lblTitle {
+    font-size:40px;
+    font-family: 'Agency FB';
+    font-weight:bold;
+}
+
+#card {
+    border-radius: 8px;
+    box-shadow: 1px 2px 8px rgba(0, 0, 0, 0.65);
+    height: 570px;
+    margin: 6rem auto 8.1rem auto;
+    width: 329px;
+}
+
+.form-group {
+    margin: 100px auto;
+    width: 50px;
+    padding: 60px;
+    border: 2px solid #ccc;
+    background: lightblue;
+}
+
+#btnReg {
+    color: #fff;
+    background: #008B8B;
+}
+
+#btnLogin {
+    color: floralwhite;
+    background-color: lightblue;
+}
+
+#lblEmailDetails{
+    color:whitesmoke;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
