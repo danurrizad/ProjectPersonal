@@ -1,0 +1,64 @@
+﻿body {
+    background-image: url('../img/2.jpg');
+}
+header {
+    background: #FFFFFF;
+    padding:1em;
+}
+.auto-style1 {
+    width: 186px;
+}
+
+.auto-style2 {
+    width: 186px;
+    height: 50px;
+}
+
+.auto-style3 {
+    height: 50px;
+}
+
+.auto-style4 {
+    height: 50px;
+    width: 225px;
+}
+
+.auto-style5 {
+    width: 225px;
+}
+
+
+.top-page{
+    background-color:aliceblue;
+    border-bottom-color:black;
+}
+
+#GridView1{
+    background-color:aliceblue;
+}
+
+#btnLogout{
+    text-align:center;
+    float:right;
+    background-color:aliceblue;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size:26px;
+    font-weight:bold;
+}
+.auto-style10{
+    background-color:aliceblue;
+}
+
+#lblTitle {
+    font-family: 'Agency FB';
+    text-align: center;
+}
+
+#btnHome, #btnEdit, #btnAdmin{
+    background-color:aliceblue;
+    
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size:22px;
+}
+
+
